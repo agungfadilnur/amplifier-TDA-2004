@@ -1,0 +1,15 @@
+R1 4R7
+R2 4R7
+R3 22K
+R4 470
+C1 104
+C2 104
+C3.Elco 470 uf
+C4 104
+C5 1uf
+C6 1uf
+C7 10 nf
+C8.Elco 10 uf 
+C9.Elco 220uf
+C10.Elco 220uf
+IC TDA 2004
